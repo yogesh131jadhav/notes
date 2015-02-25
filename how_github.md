@@ -5,7 +5,7 @@ As mentioned above Git hub is public repository to store projects.
 * Local repository on your computer.
 * Remote repository on git hub.
 
-** Git hub contains all records of data with comments. If we want to get data from repository then we have three ways to do this. **
+Git hub contains all records of data with comments. If we want to get data from repository then we have three ways to do this.
 
 a. Create own repository - 
 Here in this we create our own repository on github.com and create local repository for it.
