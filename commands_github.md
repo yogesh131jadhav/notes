@@ -55,7 +55,7 @@ rvm gemset use mlb_app
 bundle
 
 
-* To precompile assets:
+* To precompile assets:<br/>
 
 -pull branch
 
